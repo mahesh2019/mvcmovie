@@ -11,6 +11,7 @@ namespace Mvcmovie
 {
     public class Program
     {
+        //Below is the main method
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
